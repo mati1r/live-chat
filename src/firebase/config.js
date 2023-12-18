@@ -7,12 +7,12 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, si
         onAuthStateChanged, updateProfile } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCCpJY5VpI70AZnuv-BV4mi-P9LoRcZsT4",
-    authDomain: "live-chat-67dab.firebaseapp.com",
-    projectId: "live-chat-67dab",
-    storageBucket: "live-chat-67dab.appspot.com",
-    messagingSenderId: "429962221822",
-    appId: "1:429962221822:web:f2a2d7c49a27af1419edaf"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
 const app = initializeApp(firebaseConfig);

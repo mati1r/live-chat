@@ -1,5 +1,15 @@
 # live-chat
 
+## About
+```
+Part of Build Web Apps with Vue JS 3 & Firebase udemy course.
+
+Modifications that might be added in the future
+  - multiple rooms
+  - locked rooms and invitations
+
+```
+
 ## Project setup
 ```
 npm install
